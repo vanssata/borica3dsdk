@@ -1,0 +1,30 @@
+{
+  "name": "vanssata/borica3dsdk",
+  "description": "Borica 3D SDK",
+  "type": "library",
+  "require": {
+    "php": ">=7.2",
+    "ext-mbstring": "*",
+    "ext-openssl": "*",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "symfony/options-resolver": "*"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Vanssa\\BoricaSDK\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "vanssa",
+      "email": "ivan.kakurov@gmail.com"
+    }
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1.0"
+    }
+  }
+}
