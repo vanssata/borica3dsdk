@@ -6,7 +6,7 @@ namespace Vanssa\BoricaSDK\Request\Type;
 use Vanssa\BoricaSDK\MacFieldsInterface;
 use Vanssa\BoricaSDK\Request\RequestInterface;
 
-interface RequestTypeInterface extends RequestInterface, MacFieldsInterface
+interface RequestTypeInterface extends RequestInterface
 {
     public function getType(): int;
 

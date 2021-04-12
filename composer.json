@@ -16,11 +16,16 @@
       "Vanssa\\BoricaSDK\\": "src/"
     }
   },
-  "version": "v0.1.0",
+  "version": "v0.1.1",
   "authors": [
     {
       "name": "vanssa",
       "email": "ivan.kakurov@gmail.com"
     }
-  ]
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "v0.1.x-dev"
+    }
+  }
 }
