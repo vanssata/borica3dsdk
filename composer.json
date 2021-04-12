@@ -16,6 +16,7 @@
       "Vanssa\\BoricaSDK\\": "src/"
     }
   },
+  "version": "v0.1.0",
   "authors": [
     {
       "name": "vanssa",
