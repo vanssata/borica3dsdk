@@ -21,10 +21,5 @@
       "name": "vanssa",
       "email": "ivan.kakurov@gmail.com"
     }
-  ],
-  "extra": {
-    "branch-alias": {
-      "dev-master": "0.1.0"
-    }
-  }
+  ]
 }
