@@ -16,7 +16,8 @@
       "Vanssa\\BoricaSDK\\": "src/"
     }
   },
-  "version": "v0.1.2",
+  "minimum-stability": "dev",
+  "version": "v0.1.3",
   "authors": [
     {
       "name": "vanssa",
@@ -25,7 +26,7 @@
   ],
   "extra": {
     "branch-alias": {
-      "dev-master": "v0.1.2-dev"
+      "dev-master": "v0.1.*-dev"
     }
   }
 }
