@@ -1,4 +1,5 @@
-# WIP   
+# WIP - DEPRECATED this script need changes to sing and form
+----
 ## Requirements
 
 - PHP >= 7.2 (including 8.1)
